@@ -126,7 +126,7 @@ class ModMail:
     async def ignore(self, ctx, user: discord.Member, *, reason=None):
         """Add a user to the ignore list.
 
-        Example: [p]modmail ignore @BakersBakeBread Spamming"""
+        Example: [p]modmail ignore @BJPickles Spamming"""
         if user.id not in self.ignored_users["ignored"]:
             if reason is None:
                 reason = "Reason not specified"
@@ -171,7 +171,7 @@ class ModMail:
     async def unignore(self, ctx, user: discord.Member):
         """Removes user from ignore list.
 
-        Example: ?modmail unignore @BakersBakeBread"""
+        Example: [p]modmail unignore @BJPickles"""
         author = ctx.message.author
         if user.id in self.ignored_users["ignored"]:
             self.ignored_users["ignored"].remove(user.id)
