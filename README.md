@@ -58,7 +58,7 @@ Give an example
 Use the following:
 
 ```
-[p]cog repo add Bread-Cogs https://github.com/BJPickles/AEGIS-Cogs
+[p]cog repo add AEGIS-Cogs https://github.com/BJPickles/AEGIS-Cogs
 ```
 ```
 [p]cog install AEGIS-Cogs modmail
