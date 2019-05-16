@@ -65,7 +65,7 @@ class Statistics:
         else:
             self.refresh_rate = seconds
             self.settings['REFRESH_RATE'] = self.refresh_rate
-            dataIO.save_json('data/statistics/settings.json', self.settings)
+            dataIO.save_json('data/Statistics/settings.json', self.settings)
             message = '`Changed refresh rate to {} seconds`'.format(
                 self.refresh_rate)
         await self.bot.say(message)
