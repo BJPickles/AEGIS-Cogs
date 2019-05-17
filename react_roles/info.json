@@ -1,0 +1,10 @@
+{
+    "AUTHOR" : "ZeLarpMaster#0818, BJPickles#6955",
+    "INSTALL_MSG" : "Thanks for installing the role reactions cog. Hope you enjoy!\nTo get a message's ID you can right click a message and click Copy ID with the developer mode enabled.\nTo enable the developer go to Settings > Appearance > Advanced > Developer Mode",
+    "NAME" : "ReactRole",
+    "SHORT" : "Associate reactions on messages with a role",
+    "DESCRIPTION" : "Associate reactions on messages with a role to give users a role when clicking the reaction or removing the role when they click again.\nImportant note: this requires the ClientModification cog (can be found on the repo) to work properly.",
+    "TAGS" : ["reaction", "role", "utility"],
+    "REQUIREMENTS" : [],
+    "HIDDEN" : false
+}
