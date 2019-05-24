@@ -56,10 +56,7 @@
 
 # Overview
 
-Red is a fully modular bot – meaning all features and commands can be enabled/disabled to your
-liking, making it completely customizable. This is also a *self-hosted bot* – meaning you will need
-to host and maintain your own instance. You can turn Red into an admin bot, music bot, trivia bot,
-new best friend or all of these together!  
+These are cogs for Red, which have been made for AEGIS, but are publicly released. See deployment(#deployment) for further instructions.
 
 [Installation](#installation) is easy, and you do **NOT** need to know anything about coding! Aside
 from installation and updating, every part of the bot can be controlled from within Discord.
