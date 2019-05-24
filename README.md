@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/Cog-Creators/Red-DiscordBot/tree/V3/develop"><img src="https://imgur.com/pY1WUFX.png" alt="Red - Discord Bot"></a>
+  <a href="https://github.com/Cog-Creators/Red-DiscordBot/tree/V3/develop"><img src="http://pluspng.com/img-png/png-hd-gears-cogs-07-54-11-march-2017-600.png" alt="AEGIS Cogs"></a>
   <br>
   AEGIS Discord Bot V3
   <br>
