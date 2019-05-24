@@ -1,0 +1,9 @@
+{
+    "AUTHOR" : "Krazysh01, BJPickles#6955",
+    "SHORT" : "Synchronised Countdown",
+    "DESCRIPTION" : "Countdown timer using synchronised server time. Credit to Repulser for the original cog, as well as Krazysh01 for expanding. This version hosts minor edits.",
+    "DISABLED" : true,
+    "NAME" : "Countdown",
+    "TAGS" : ["Countdown", "Timer", "count"],
+    "INSTALL_MSG" : "Countdown is ready!"
+}
