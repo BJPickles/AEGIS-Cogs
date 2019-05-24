@@ -133,44 +133,43 @@ Artwork created by [Sinlaire](https://sinlaire.deviantart.com/) on Deviant Art f
 Bot Project.
 
 
-## Deployment
+# Deployment
 
-Use the following:
+Use the following to get our released AEGIS cogs:
 
 ```
 [p]cog repo add AEGIS-Cogs https://github.com/BJPickles/AEGIS-Cogs
 ```
 ```
+Example:
+
 [p]cog install AEGIS-Cogs modmail
 ```
 
-## Built With
+# Built With
 
-* [Python](Link) - The web framework used
+* [Python](Link) - The framework used
 * [Discord RED](Link) - Dependency Management
 * [GitHub](Link) - Used to generate host
 
-## Contributing
+# Contributing
 
 Please read [CONTRIBUTING.md](Link) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning
+# Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
-## Authors
+# Authors
 
 * **BJPickles** - *Initial work* - [BJPickles](https://github.com/BJPickles)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
-## License
+# Acknowledgments
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
-* etc
+* Hat tip to anyone whose code was used.
+* There are a lot of amazing authors here.
+* It's important to note this is a huge collaboration of authors who have spent hundreds of hours pouring their time into this project.
+* AEGIS is humbled that we are able to use this code and extend it to our own aims.
+* Big thank you to everyone for your hard work.
