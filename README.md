@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/BJPickles/AEGIS-Cogs.svg?branch=master)](https://travis-ci.com/BJPickles/AEGIS-Cogs)
+
 # AEGIS Cogs
 
 This is the repo for all AEGIS cogs, created for the Official AEGIS Discord channel. Most of these cogs have been modified to suit the need of AEGIS specifically.
