@@ -2,18 +2,18 @@
   <br>
   <a href="https://github.com/Cog-Creators/Red-DiscordBot/tree/V3/develop"><img src="https://imgur.com/pY1WUFX.png" alt="Red - Discord Bot"></a>
   <br>
-  Red Discord Bot
+  AEGIS Discord Bot V3
   <br>
 </h1>
 
 <h4 align="center">Music, Moderation, Trivia, Stream Alerts and Fully Modular.</h4>
 
 <p align="center">
-  <a href="https://discord.gg/red">
-    <img src="https://discordapp.com/api/guilds/133049272517001216/widget.png?style=shield" alt="Discord Server">
+  <a href="https://discord.gg/smvhW9t">
+    <img src="https://discordapp.com/api/guilds/301811233827454986/widget.png?style=shield" alt="Discord Server">
   </a>
   <a href="https://www.patreon.com/Red_Devs">
-    <img src="https://img.shields.io/badge/Support-Red!-yellow.svg" alt="Support Red on Patreon!">
+    <img src="https://img.shields.io/badge/Support-Red!-yellow.svg" alt="Support AEGIS on Patreon!">
   </a>
   <a href="https://www.python.org/downloads/">
     <img src="https://img.shields.io/badge/Made%20With-Python%203.7-blue.svg?style=for-the-badge" alt="Made with Python 3.7">
